@@ -6,7 +6,7 @@
 
 ​
 
-- windows10
+- M1
 
 - tomcat9.0
 
